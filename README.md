@@ -13,7 +13,7 @@
 
 </p> -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack 💻</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me out on 📞</h2>
 
 <p align="center">
 <a href="mailto: rbadugu@asu.edu">
@@ -45,7 +45,7 @@
 <br>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats 📈
 </h2>
  
 <br>
