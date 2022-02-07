@@ -1,4 +1,4 @@
-### Hi there. I'm Rohit 👋
+## Hi there. I'm Rohit 👋
 
 - 💻 I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
